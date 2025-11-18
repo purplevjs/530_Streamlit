@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Mortgage Payment Calculator App  
 *Built with Streamlit (Python)*
 
