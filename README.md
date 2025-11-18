@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mortgage Payment Calculator App  
 *Built with Streamlit (Python)*
 
@@ -50,3 +51,6 @@ pip install -r requirements.txt
 streamlit run mortgage_calculator.py
 ```
 
+=======
+# 530_Streamlit
+>>>>>>> c69a9e24379e52f55fff2c41a748c678722039f1
